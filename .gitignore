@@ -3,3 +3,7 @@ scripts/.DS_Store
 /OpenSSL_1_1_1*
 /build
 /frameworks
+/src
+/lib
+/bin
+
